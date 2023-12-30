@@ -45,7 +45,7 @@ The JavaScript code implements the functionality of the Bankist App. It uses HTM
 
 - Guna Palanivel
 
-  - <a href="#bankist">Bankist Site</a>
+  - <a href="https://bankist-yuu.pages.dev/">Bankist Site</a>
 
 - Jonas Schmedtmann
 
